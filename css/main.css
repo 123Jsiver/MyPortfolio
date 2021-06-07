@@ -51,3 +51,7 @@ a {
   border: 1px solid black;
   text-align: center;
 }
+
+.carousel-inner > .carousel-item > img {
+  height: 400px;
+}
